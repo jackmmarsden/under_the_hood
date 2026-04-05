@@ -1,0 +1,9 @@
+---
+title: "Under the Hood"
+---
+
+# Welcome
+
+This book explores foundational concepts in probability theory and measure theory.
+
+Navigate through the chapters to dive deeper into the mathematical structures that underpin modern probability.
