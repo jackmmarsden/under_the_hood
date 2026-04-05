@@ -1,15 +1,8 @@
----
-title: "Probability & Measure"
-format: html
-editor: visual
----
+# Section 1
+This section discusses the introduction to the probability measure, providing insights into its significance and applications.
 
-# Sigma algebras, classes of sets
+# Section 2
+Here, we elaborate on the fundamental principles that underpin probability measures, outlining key concepts to understand.
 
-# Measures, probability measures
-
-# Measurable functions, the Lebesgue integral
-
-# Lp spaces, absolute continuity
-
-# Radon-Nikodym theorem
+# Section 3
+In this section, we analyze specific examples that illustrate the topic, enhancing comprehension through practical applications.
