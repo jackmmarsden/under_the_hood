@@ -1,7 +1,5 @@
 ---
 title: "Probability & Measure"
-format: html
-editor: visual
 ---
 
 # Section 1
