@@ -4,9 +4,9 @@ project:
 book:
   title: "Under the Hood"
   author: "Jack Marsden"
-
-chapters:
-  - pair_0_probability_measure.qmd
+  chapters:
+    - index.qmd
+    - pair_0_probability_measure.qmd
 
 format:
   html:
