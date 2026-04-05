@@ -1,0 +1,22 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Under the Hood",
+    "section": "",
+    "text": "1 Welcome\nThis book explores foundational concepts in probability theory and measure theory.\nNavigate through the chapters to dive deeper into the mathematical structures that underpin modern probability.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Under the Hood</span>"
+    ]
+  },
+  {
+    "objectID": "pair_0_probability_measure.html",
+    "href": "pair_0_probability_measure.html",
+    "title": "2  Probability & Measure",
+    "section": "",
+    "text": "3 Section 1\nThis section discusses the introduction to the probability measure, providing insights into its significance and applications.\n\n\n4 Section 2\nHere, we elaborate on the fundamental principles that underpin probability measures, outlining key concepts to understand.\n\n\n5 Section 3\nIn this section, we analyze specific examples that illustrate the topic, enhancing comprehension through practical applications.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Probability & Measure</span>"
+    ]
+  }
+]
