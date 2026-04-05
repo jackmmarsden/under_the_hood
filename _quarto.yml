@@ -6,7 +6,6 @@ book:
   author: "Jack Marsden"
 
 chapters:
-  - index.qmd
   - pair_0_probability_measure.qmd
 
 format:
